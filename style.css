@@ -1,0 +1,21 @@
+
+.tour img
+{
+  height: 220px;object-fit: cover;
+}
+.hero
+{
+  background: linear-gradient(rgba(0, 0, 0, 0.499),rgb(4, 5, 4,0.482)), url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg); height: 100vh;
+} 
+.navbar-expand-lg .navbar-nav .nav-link
+{color: white;font-weight: bold;font-size: 20px} 
+.dropdown-item
+{background:black;color: white;font-weight: bold;height:50px}
+.nav-pills .nav-link.active
+{
+  background: transparent;font-weight: bold;color: black;
+}
+.nav-pills .nav-link
+{
+  color: black;
+}
